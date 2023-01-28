@@ -1,5 +1,7 @@
 # Model-Free Safe Reinforcement Learning through Neural Barrier Certificate
 
+This repository contains the official implementation of [Model-Free Safe Reinforcement Learning through Neural Barrier Certificate](https://ieeexplore.ieee.org/document/10023989) published in IEEE Robotics and Automation Letters.
+
 ## Installation
 
 Clone the repository:
