@@ -6,7 +6,7 @@ This repository contains the official implementation of [Model-Free Safe Reinfor
 
 Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/jjyyxx/srlnbc.git
 cd srlnbc
 ```
 
